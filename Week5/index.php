@@ -214,7 +214,7 @@ if (isset($_SESSION['user_id'])) {
                 Google
             </button>
            <button type="button" class="social-btn" onclick="alert('Social logins coming soon!')">
-          <img class="apple" src="./Images/apple-logo.png">
+          <img class="apple" src="../Images/apple-logo.png">
     Apple
 </button>
         </div>
@@ -259,7 +259,7 @@ if (isset($_SESSION['user_id'])) {
                 Google
             </button>
             <button type="button" class="social-btn" onclick="alert('Social logins coming soon!')">
-              <img class="apple" src="./Images/apple-logo.png">
+              <img class="apple" src="../Images/apple-logo.png">
     Apple
 </button>
         </div>
